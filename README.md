@@ -12,7 +12,7 @@ SpringBoardAIC course.
    1. 5.1.9	APIs
    2. 5.3.7	data wrangling
    3. 5.4.3	json based data exercise
-   4. 6.5	SQL at Scale with Spark
+   4. 5.6.5	SQL at Scale with Spark
    5. 5.8.4	Data Wrangling at Scale with Spark
    6. 8.1.3	Linear regression
    7. 8.1.5	Logistic regression
